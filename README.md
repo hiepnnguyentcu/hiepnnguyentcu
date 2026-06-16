@@ -9,7 +9,7 @@
 
 **projects**
 - *[Bibo.AI](https://app.bibo-ai.com/)* — agentic platform for multilingual children's books · Go pipeline, autoscaled workers, vector search
-- *[IPELiNT](https://www.ipelint.com/)* — AI patent analysis over the full USPTO dataset · led a small team · MERN + GPT-4
+- *[IPELiNT](https://www.ipelint.com/)* — AI patent analysis over the full USPTO dataset · MERN + GPT-4
 
 **tech stack**
 
