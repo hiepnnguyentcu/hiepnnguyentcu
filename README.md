@@ -12,6 +12,7 @@
 - *[IPELiNT](https://www.ipelint.com/)* — AI patent analysis over the full USPTO dataset · led a small team · MERN + GPT-4
 
 **tech stack**
+
 `Go` `Python` `Java` `TypeScript` · `Spring Boot` · `FastAPI` · `Kafka` · `Redis` · `Snowflake` · `dbt` · `Airflow` · `Gemini` · `Langfuse` · `Docker` · `Kubernetes` · `AWS`
 
 **notable awards**
