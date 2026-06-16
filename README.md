@@ -1,26 +1,23 @@
-## Hiep "Henry" Nguyen
+👋 software engineer + cs grad student. backend systems and ml/llm pipelines for high-throughput production services. currently into research on ai-assisted coding agents + ml serving infra (inference, batching, kv cache).
 
-Software engineer and CS grad student. I build backend systems and ML/LLM pipelines for high-throughput production services.
+**past experience**
+- *alma* — swe (backend) · LLM pipelines & billing core
+- *cbre group, inc* — swe ii · distributed mobile infrastructure
+- *cbre group, inc* — swe i · data warehouse & analytics
+- *cbre group, inc* — swe intern · request flagging & report automation
+- *fpt software, ltd* — swe intern · led team; employee self-service app
 
-### Currently
-AI for Software Engineering (AI4SE) · GPU-aware optimizations for coding agents · ML systems (inference serving, KV cache, continuous batching)
+**projects**
+- *[Bibo.AI](https://app.bibo-ai.com/)* — agentic platform for multilingual children's books · Go pipeline, autoscaled workers, vector search
+- *[IPELiNT](https://www.ipelint.com/)* — AI patent analysis over the full USPTO dataset · led a small team · MERN + GPT-4
 
-### Experience
-- **Alma** — Software Engineer · LLM pipelines & billing core
-- **CBRE** — SWE II · distributed mobile infrastructure
-- **CBRE** — SWE I · data warehouse & analytics
-- **CBRE** — SWE Intern · request flagging & report automation
-- **FPT Software** — SWE Intern · led team; employee self-service app
+**tech stack**
+`Go` `Python` `Java` `TypeScript` · `Spring Boot` · `FastAPI` · `Kafka` · `Redis` · `Snowflake` · `dbt` · `Airflow` · `Gemini` · `Langfuse` · `Docker` · `Kubernetes` · `AWS`
 
-### Projects
-- **[Bibo.AI](https://app.bibo-ai.com/)** — agentic platform for multilingual children's books · Go pipeline, autoscaled workers, vector search
-- **[IPELiNT](https://www.ipelint.com/)** — AI patent analysis over the full USPTO dataset · led a small team · MERN + GPT-4
-
-### Stack
-`Go` `Python` `Java` `TypeScript` · Spring Boot · FastAPI · Kafka · Redis · Snowflake · dbt · Airflow · Gemini · Langfuse · Docker · Kubernetes · AWS
-
-### Notable
-CDTO Excellence Award @ CBRE · Boller Award Finalist · Magna Cum Laude
+**notable awards**
+- CDTO Excellence Award @ CBRE: awarded for exceptional cross-team performance during platform launch
+- Boller Award Finalist: 1/16 thesis selected from 98 honors theses
+- Magna Cum Laude
 
 ---
-[LinkedIn](https://linkedin.com/in/hiepnnguyentcu) · [hiepnguyentcu@gmail.com](mailto:hiepnguyentcu@gmail.com) · [hiepn.dev](https://hiepn.dev/)
+📫 [LinkedIn](https://linkedin.com/in/hiepnnguyentcu) · [hiepnguyentcu@gmail.com](mailto:hiepnguyentcu@gmail.com) · [hiepn.dev](https://hiepn.dev/)
