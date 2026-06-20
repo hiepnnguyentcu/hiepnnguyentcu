@@ -9,6 +9,7 @@
 - *[IPELiNT](https://www.ipelint.com/)* — ai patent analysis over the full uspto dataset · mern + gpt-4
 
 **stack**
+
 `Go` `Python` `Java` `TypeScript` · `Spring Boot` `FastAPI` · `Kafka` `Redis` `Snowflake` `dbt` `Airflow` · `Gemini` `Langfuse` · `Docker` `Kubernetes` `AWS`
 
 **recognition**
