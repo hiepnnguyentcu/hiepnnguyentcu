@@ -1,4 +1,5 @@
-👋 software engineer + cs grad student. backend systems and ml/llm pipelines for high-throughput production services. research focus: ai-assisted coding agents and ml serving infra (inference, batching, kv cache).
+software engineer + cs grad student. backend systems and ml/llm pipelines for high-throughput production services. 
+research focus: ai-assisted coding agents and ml serving infra (inference, batching, kv cache).
 
 **experience**
 - *alma* — swe · llm pipelines & billing core
