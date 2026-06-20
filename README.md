@@ -2,7 +2,7 @@
 
 **experience**
 - *alma* — swe · llm pipelines & billing core
-- *cbre group* — swe ii → swe i → intern · distributed mobile infra, data warehouse, analytics
+- *cbre group* — swe ii | swe i | intern · distributed mobile infra, data warehouse, analytics
 
 **projects**
 - *[Bibo.AI](https://app.bibo-ai.com/)* — agentic platform for multilingual children's books · go pipeline, autoscaled workers, vector search
