@@ -20,4 +20,4 @@ research focus: ai-assisted coding agents and ml serving infra (inference, batch
 - Boller Award Finalist · 1 of 16 from 98 honors theses · Magna Cum Laude
 
 ---
-📫 [LinkedIn](https://linkedin.com/in/hiepnnguyentcu) · [hiepnguyentcu@gmail.com](mailto:hiepnguyentcu@gmail.com) · [hiepn.dev](https://hiepn.dev/)
+📫 [LinkedIn](https://linkedin.com/in/hiepnnguyentcu) · [Leetcode](https://leetcode.com/u/hiepnnguyen/) · [hiepnguyentcu@gmail.com](mailto:hiepnguyentcu@gmail.com) · [hiepn.dev](https://hiepn.dev/) 
