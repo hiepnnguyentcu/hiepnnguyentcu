@@ -6,14 +6,9 @@ research focus: ai-assisted coding agents and ml serving infra (inference, batch
 - *alma* — swe · llm pipelines & billing core
 - *cbre group* — swe ii | swe i | intern · distributed mobile infra, data warehouse, analytics
 
-**projects**
-- *[Jarvis](https://github.com/hiepnnguyentcu/jarvis)* — wearable ai assistant w. knowledge graph · meta wearables dat sdk, apache age, swift
-- *[Bibo.AI](https://app.bibo-ai.com/)* — agentic platform for multilingual children's books · go pipeline, autoscaled workers, vector search
-- *[IPELiNT](https://www.ipelint.com/)* — ai patent analysis over the full uspto dataset · mern + gpt-4
-
 **stack**
 
-`Go` `Python` `Java` `TypeScript` · `Spring Boot` `FastAPI` · `Kafka` `Redis` `Snowflake` `dbt` `Airflow` · `Gemini` `Langfuse` · `Docker` `Kubernetes` `AWS`
+`Go` `Rust` `Python` `Java` `TypeScript` · `Spring Boot` `FastAPI` · `Kafka` `Redis` `Snowflake` `dbt` `Airflow` · `Gemini` `Langfuse` · `Docker` `Kubernetes` `AWS`
 
 **recognition**
 - CDTO Excellence Award · CBRE
