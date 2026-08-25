@@ -1,5 +1,5 @@
 software engineer + cs grad student. backend systems and ml/llm pipelines for high-throughput production services. 
-research focus: ai-assisted coding agents and ml serving infra (inference, batching, kv cache).
+research focus: ai-assisted coding agents, formal verification and llm serving infra.
 
 **experience**
 - *texas christian university* - graduate student researcher · reinforcement learning, kernel generation
