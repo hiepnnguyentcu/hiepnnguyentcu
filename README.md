@@ -1,8 +1,8 @@
 software engineer + cs grad student. backend systems and ml/llm pipelines for high-throughput production services. 
-research focus: ai-assisted coding agents, formal verification and llm serving infra.
+research focus: ai-assisted coding agents, formal verification
 
 **experience**
-- *texas christian university* - graduate student researcher · reinforcement learning, kernel generation
+- *texas christian university* - graduate student researcher
 - *alma* — swe · llm pipelines & billing core
 - *cbre group* — swe ii | swe i | intern · distributed mobile infra, data warehouse, analytics
 
