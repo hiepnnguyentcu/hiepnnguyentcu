@@ -1,4 +1,7 @@
-software engineer + cs grad student. backend systems and ml/llm pipelines for high-throughput production services. 
+role: software engineer + cs grad student. 
+
+work experience: backend systems and ml/llm pipelines for high-throughput production services. 
+
 research focus: ai-assisted coding agents, formal verification
 
 **experience**
