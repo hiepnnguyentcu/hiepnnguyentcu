@@ -2,7 +2,7 @@ role: software engineer + cs grad student.
 
 work experience: backend systems and ml/llm pipelines for high-throughput production services. 
 
-research focus: ai-assisted coding agents, formal verification
+research focus: ai-assisted coding agents, formal verification, multi-agent protocols.
 
 **experience**
 - *texas christian university* - graduate student researcher
